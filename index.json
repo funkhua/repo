@@ -658,6 +658,7 @@
   "package": "hanime1.me",
   "type": "bangumi",
   "url": "hanime1.me.js",
+  "api": "https://raw.githubusercontent.com/funkhua/repo/refs/heads/main/repo/hanime1.me.js",
   "version": "v0.0.1",
   "webSite": "https://hanime1.me"
  },
